@@ -28,10 +28,4 @@ splunk-security-labs/
 - Investigating failed authentication activity
 - Documenting SOC-style findings
 
-## Evidence Policy
 
-Only Splunk-related screenshots and notes should be included in this repository. Raw ChatGPT conversations, unrelated lab screenshots, course answer pages, and sensitive information should not be uploaded.
-
-## Disclaimer
-
-These labs were completed in controlled educational environments for learning and portfolio demonstration purposes.
