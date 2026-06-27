@@ -42,6 +42,4 @@ The investigation showed repeated `UserLoginFailed` activity from multiple clien
 
 Failed login analysis should combine event counts, client IPs, operations, and error codes so that suspicious authentication patterns can be prioritized for escalation.
 
-## Disclaimer
 
-This lab was completed in a controlled educational environment.
