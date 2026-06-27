@@ -39,6 +39,4 @@ Splunk returned 10 audit events from the `auditlab` index. This confirmed that t
 
 Before running detection logic, an analyst should first confirm that the dataset is present, searchable, and returning events from the expected index.
 
-## Disclaimer
 
-This lab was completed in a controlled educational environment.
