@@ -43,6 +43,4 @@ The most active client IP was `80.114.221.214` with 686 events, followed by `178
 
 Grouping authentication events by source IP helps identify unusual concentrations of activity that may need further investigation.
 
-## Disclaimer
 
-This lab was completed in a controlled educational environment.
